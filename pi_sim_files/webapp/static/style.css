@@ -1,0 +1,6 @@
+body { background: #f7f9fb; }
+.toggle-pill { width:60px; height:28px; background:#e5eefc; border-radius:14px; position:relative; }
+.toggle-pill .dot { width:24px; height:24px; background:#6ea8fe; border-radius:50%; position:absolute; top:2px; left:2px; transition:left .2s; }
+.toggle-pill.on .dot { left:34px; background:#2ecc71; }
+.wifi span { display:inline-block; width:8px; height:14px; margin-right:4px; background:#6ea8fe; opacity:.2; }
+.wifi.on span { opacity:1; }
