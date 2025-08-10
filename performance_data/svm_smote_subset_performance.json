@@ -1,0 +1,17 @@
+{
+    "model_name": "SVM (SMOTE Subset)",
+    "accuracy": 0.9986,
+    "f1_score": 0.998599914859441,
+    "training_time": 2.518111228942871,
+    "false_positive_rate": 0.0022222222222222222,
+    "confusion_matrix": [
+        [
+            1796,
+            4
+        ],
+        [
+            3,
+            3197
+        ]
+    ]
+}

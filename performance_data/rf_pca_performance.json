@@ -1,0 +1,18 @@
+{
+    "model_name": "Random Forest (With PCA)",
+    "accuracy": 0.9992696629213483,
+    "f1_score": 0.9992708284307984,
+    "training_time": 24.39043402671814,
+    "false_positive_rate": 0.0,
+    "roc_auc_score": 0.9999995069444445,
+    "confusion_matrix": [
+        [
+            9000,
+            0
+        ],
+        [
+            65,
+            79935
+        ]
+    ]
+}

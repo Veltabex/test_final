@@ -1,0 +1,16 @@
+{
+    "model_name": "Random Forest (With SMOTE)",
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "training_time": 314.68660497665405,
+    "confusion_matrix": [
+        [
+            9000,
+            0
+        ],
+        [
+            0,
+            80000
+        ]
+    ]
+}

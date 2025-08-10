@@ -1,0 +1,17 @@
+{
+    "model_name": "Random Forest (Raw Data)",
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "training_time": 203.41791105270386,
+    "roc_auc_score": 1.0,
+    "confusion_matrix": [
+        [
+            9000,
+            0
+        ],
+        [
+            0,
+            80000
+        ]
+    ]
+}

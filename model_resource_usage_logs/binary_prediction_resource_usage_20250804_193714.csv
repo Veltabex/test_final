@@ -1,0 +1,2 @@
+timestamp,cpu_percent_before,memory_before,cpu_percent_after,memory_after,memory_consumed
+20250804_193714,38.5,6842351616,55.6,6511824896,-330526720
