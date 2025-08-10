@@ -1,0 +1,8 @@
+{
+  "dataset": "N-BaIoT",
+  "n_features": 115,
+  "selector": "all_features_svm_subset",
+  "random_state": 42,
+  "python": "3.11.13",
+  "sklearn": "1.6.1"
+}
