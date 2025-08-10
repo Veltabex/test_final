@@ -1,0 +1,9 @@
+What you can say is:
+
+Based on testing the model on that specific benign dataset, the observed False Positive Rate was approximately 8%. This suggests that the model may have a tendency to produce a False Positive prediction for around 8% of benign samples that are similar in characteristics to the data used in that test.
+
+It provides a valuable estimate and highlights the model's behavior on benign data, but it's not a guaranteed rate for all future predictions on any kind of data.
+
+To get a more robust understanding of the model's FPR, you would ideally test it on a diverse set of benign data and also evaluate its performance (including FPR) on mixed datasets containing both benign and malware samples, if possible.
+
+Does that distinction make sense?
